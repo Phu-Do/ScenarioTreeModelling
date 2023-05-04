@@ -1,8 +1,8 @@
 # Scenario Tree Modelling
 
-########################################
+
 # CONTENT(s)
-########################################
+
 1. Scenario Tree Model 
 2. Component Sensitivities
 3. Manual sensitivity analysis
@@ -10,9 +10,9 @@
 5. Raw output files (antibiotic resistance)
 6. Scenario Tree (requires ModelRisk)
 
-######################################## 
+
 #            INSTRUCTIONS(s)
-########################################
+
 1. Please install the necessary font file for the graphs produced and custom theme
 	a. HelveticaNeueLTProRoman
 2. Run the Scenario Tree Model file which will run the model and integrate the new font
@@ -21,9 +21,9 @@
 4. Run manual sensitivity analysis.
 
 
-########################################
+
  #           TROUBLESHOOTING
-########################################
+
 If there are any problems please ensure
 1. Font is installed, or alternatively the themes for the plots can be changed from
 	a. base_family="HelveticaNeueLT Pro 55 Roman" to base_family = "Arial"
