@@ -19,12 +19,13 @@
 	a. All necessary libraries and files have been included within the supplementary information
 3. Run component sensitivities file which will give individual component sensitivities based on the Scenario Tree Model
 4. Run manual sensitivity analysis (optional)
+5. Executing the code within the Scenario Model will install all necessary packages as well as run the model. The model will take some time to load.
 
 
 
  # Troubleshooting
 
-If there are any problems please ensure
+If there are any problems please ensure:
 1. Font is installed, or alternatively the themes for the plots can be changed from
 	a. `base_family="HelveticaNeueLT Pro 55 Roman"` to `base_family = "Arial"`
 2. Please ensure all packages have been installed probably for the package to work
