@@ -26,7 +26,7 @@
 
 If there are any problems please ensure
 1. Font is installed, or alternatively the themes for the plots can be changed from
-	a. base_family="HelveticaNeueLT Pro 55 Roman" to base_family = "Arial"
+	a. `base_family="HelveticaNeueLT Pro 55 Roman"` to `base_family = "Arial"`
 2. Please ensure all packages have been installed probably for the package to work
 3. Ensure the files have been run in the correct order
 	a. Scenario Tree Model
