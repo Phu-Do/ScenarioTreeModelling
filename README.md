@@ -1,7 +1,7 @@
 # Scenario Tree Modelling
 
 
-# CONTENT(s)
+# Content
 
 1. Scenario Tree Model 
 2. Component Sensitivities
@@ -11,18 +11,18 @@
 6. Scenario Tree (requires ModelRisk)
 
 
-#            INSTRUCTIONS(s)
+# Instructions
 
 1. Please install the necessary font file for the graphs produced and custom theme
 	a. HelveticaNeueLTProRoman
 2. Run the Scenario Tree Model file which will run the model and integrate the new font
 	a. All necessary libraries and files have been included within the supplementary information
 3. Run component sensitivities file which will give individual component sensitivities based on the Scenario Tree Model
-4. Run manual sensitivity analysis.
+4. Run manual sensitivity analysis (optional)
 
 
 
- #           TROUBLESHOOTING
+ # Troubleshooting
 
 If there are any problems please ensure
 1. Font is installed, or alternatively the themes for the plots can be changed from
